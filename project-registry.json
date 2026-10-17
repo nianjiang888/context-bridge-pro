@@ -1,0 +1,22 @@
+{
+  "version": "1.0.2",
+  "auto_discover": true,
+  "projects": [],
+  "aliases_auto_expand": true,
+  "auto_discover_config": {
+    "enabled": true,
+    "min_rounds": 3,
+    "required_features": 2,
+    "features": ["有明确目标", "有进展或状态描述", "有关键决策", "有下一步计划"]
+  },
+  "notes": "本文件由context-bridge自动维护，无需手动编辑。aliases字段由AI在对话中自动积累，每次用户用新称呼指代同一项目时自动追加。",
+  "example_entry": {
+    "name": "织金45条线混合方案",
+    "keywords": ["织金", "45条线", "混合方案"],
+    "aliases": ["织金项目", "45条线项目", "织金"],
+    "context_path": "projects/织金45条线混合方案/context.md",
+    "status": "进行中",
+    "priority": "高",
+    "auto_discovered": false
+  }
+}
